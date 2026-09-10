@@ -12,7 +12,6 @@ fullscreen = 0
 android.permissions = READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE
 android.api = 35
 android.minapi = 23
-android.ndk = 27c
 android.accept_sdk_license = True
 
 [buildozer]
